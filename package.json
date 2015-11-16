@@ -1,0 +1,23 @@
+{
+  "name": "protractor-sample",
+  "version": "1.0.0",
+  "description": "https://angular.github.io/protractor/ のサンプル",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masakura/protractor-sample.git"
+  },
+  "keywords": [
+    "protractor",
+    "e2e",
+    "sample"
+  ],
+  "author": "Tomo Masakura <tomo.masakura@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/masakura/protractor-sample/issues"
+  },
+  "homepage": "https://github.com/masakura/protractor-sample#readme"
+}
