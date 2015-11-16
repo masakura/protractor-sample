@@ -15,11 +15,26 @@
         "semi": [
             2,
             "always"
+        ],
+        "space-before-function-paren": [
+            2,
+            "always"
+        ],
+        "func-names": [
+            0
         ]
+    },
+    "globals": {
+        "browser",
+        "element",
+        "by",
+        "$",
+        "$$"
     },
     "env": {
         "es6": true,
-        "node": true
+        "node": true,
+        "jasmine": true
     },
     "extends": [
         "eslint:recommended",
